@@ -27,5 +27,5 @@ region = provider_info[0]
 operator = provider_info[1]
 city = provider_info[2]
 
-print(f'Найденная информация о номере {number}: \n Страна: {region}, \n Оператор: {operator}, \n Город: {city}')
+print(f'Найденая информация о номере {number}: \n Страна: {region}, \n Оператор: {operator}, \n Город: {city}')
 os.system('pause')
